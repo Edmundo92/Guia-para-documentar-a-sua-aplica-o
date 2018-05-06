@@ -12,7 +12,7 @@ O arquivo README é escrito em Markdown, para saber mais sobre essa linguagem cl
 Por isso para não te sentires um peixe fora d'água, por favor, dê uma olhada nesse link e te garanto que será bom para conheceres o ambiente com que trabalharás.  
 
 
-====================================================================================================================
+=====================================================================================
 
 # Estrutura básica de um doc README 
 Difini uma estrutura básica e criei um snippet no VS CODE, algo que me facilitará na hora de criar o meu doc README
@@ -26,7 +26,7 @@ Essas instruções farão com que você tenha uma cópia do projeto em execuçã
 ## Pré-requisitos
 O que você precisa para instalar o software e instalá-lo
 ```js
-Give examples
+exemplos
 ```
 
 ## Instalando
@@ -34,12 +34,12 @@ Uma série passo a passo de exemplos que dizem que você precisa obter um env de
 
 Diga qual será o passo
 ```js
-Give examples
+exemplos
 ```
 E repita
 
 ```js
-Give examples
+exemplos
 ```
 Termine com um exemplo de obter alguns dados do sistema ou usá-los para uma pequena demonstração
 
@@ -49,13 +49,13 @@ Explicar como executar os testes automatizados para este sistema
 ## Divida em testes de ponta a ponta
 Explique o que esses testes testam e por que
 ```js
-Give examples
+exemplos
 ```
 
 ## E testes de estilo de codificação
 Explique o que esses testes testam e por que
 ```js
-Give examples
+exemplos
 ```
 
 ## Desdobramento, desenvolvimento
@@ -85,7 +85,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md par
 - etc
  
 
-====================================================================================================================
+=====================================================================================
 
 
 ### Links para pesquisar e aprender um pouco mais sobre como documentar os seus projectos
